@@ -2,6 +2,8 @@
 
 **Theoretical Condensed Matter Physics | DFT | Materials Modeling |**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/abhay-rawat-02a36a280)
+
 ---
 
 ## About Me
