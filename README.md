@@ -10,3 +10,16 @@
 ## About Me
 
 I am a physics graduate with a research focus on first-principles simulations for investigating materials and the exotic properties and phenomena they exhibit. I am currently seeking to pursue a PhD in condensed matter physics, with an emphasis on theoretical modeling and advanced ab initio methods.
+
+
+## Top Languages
+<p>
+  <img src="python_icon_url" width="50"/>
+  <img src="r_icon_url" width="50"/>
+</p>
+
+## Operating Systems
+<p>
+  <img src="ubuntu_icon_url" width="50"/>
+  <img src="apple_icon_url" width="50"/>
+</p>
