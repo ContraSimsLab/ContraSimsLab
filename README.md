@@ -15,7 +15,7 @@ I am a physics graduate with a research focus on first-principles simulations fo
 <p align="center">
   <img src="./icons/VASP.png" width="140"/>
   <img src="./icons/SIESTA.webp" width="150"/>
-  <img src="./icons/quantum.png" width="180"/>
+  <img src="./icons/quantum.png" width="200"/>
   <img src="./icons/gpaw.png" width="150"/>
 </p>
 
