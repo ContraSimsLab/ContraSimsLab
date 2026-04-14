@@ -2,6 +2,7 @@
 
 **Theoretical Condensed Matter Physics | Ab Initio Simulations | DFT | Materials Modeling | Electronic Structure Calculations | Relativistic Spin Orbit Physics | Climbing Image Nudged Elastic Band (CI-NEB)| Computational Catalysis | 2 Dimensional Materials**
 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=4HqqbiwAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/abhay-rawat-02a36a280)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red)](mailto:arawat1909@gmail.com)
 [![X](https://img.shields.io/badge/X-Follow-black)](https://x.com/20ph0851289)
