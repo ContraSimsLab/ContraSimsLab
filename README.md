@@ -33,6 +33,6 @@ I am a physics graduate with a research focus on first-principles simulations fo
 
 ## Graphing Tools
 <p align="center">
-  <img src="./icons/ubuntu.webp" width="140"/>
-  <img src="./icons/Windows-11-Logo.jpg" width="180"/>
+  <img src="./icons/grace.jpg" width="140"/>
+  <img src="./icons/Gnuplot.jpg" width="180"/>
 </p>
