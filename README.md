@@ -36,7 +36,7 @@ I am a physics graduate with a research focus on first-principles simulations fo
 ## Operating System
 <p align="center">
   <img src="./icons/avbl7b4rs.webp" width="140"/>
-  <img src="./icons/windows.png" width="180"/>
+  <img src="./icons/win.png" width="180"/>
 </p>
 
 ## Graphing Tools
