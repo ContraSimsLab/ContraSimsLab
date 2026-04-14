@@ -1,6 +1,6 @@
 # Abhay Rawat
 
-**Theoretical Condensed Matter Physics | DFT | Materials Modeling |**
+** Theoretical Condensed Matter Physics | Ab Initio Simulations | DFT | Materials Modeling | Electronic Structure Calculations | Spin Orbit Physics | Computational Catalysis | 2 Dimensional Materials **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/abhay-rawat-02a36a280)
 
