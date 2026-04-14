@@ -11,6 +11,12 @@
 
 I am a physics graduate with a research focus on first-principles simulations for investigating materials and the exotic properties and phenomena they exhibit. I am currently seeking to pursue a PhD in condensed matter physics, with an emphasis on theoretical modeling and advanced ab initio methods.
 
+## Density Functional Theory Packages
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="100"/>
+  <img src="./icons/pngegg.png" width="100"/>
+</p>
+
 ## Top Languages
 <p align="center">
   <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="100"/>
