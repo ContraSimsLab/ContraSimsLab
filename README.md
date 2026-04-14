@@ -39,7 +39,8 @@ I am a physics graduate with a research focus on first-principles simulations fo
 
 ## Presentation & Documentation Tools
 <p align="center">
-  <img src="./icons/grace.jpg" width="140"/>
-  <img src="./icons/Gnuplot.jpg" width="180"/>
+  <img src="./icons/overleaf-logo-primary.svg" width="100"/>
+  <img src="./icons/Canva.webp" width="100"/>
+  <img src="./icons/ppt.jpg" width="100"/>
 </p>
 
