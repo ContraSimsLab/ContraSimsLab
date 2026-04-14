@@ -1,6 +1,6 @@
 # Abhay Rawat
 
-**Theoretical Condensed Matter Physics | Ab Initio Simulations | DFT | Materials Modeling | Electronic Structure Calculations | Relativistic Spin Orbit Physics | Climbing Image Nudged Elastic Band (CI-NEB)| Computational Catalysis | 2 Dimensional Materials**
+**Theoretical Condensed Matter Physics | Ab Initio Simulations | DFT | Materials Modeling | Electronic Structure Calculations | Relativistic Spin Orbit Physics | Climbing Image Nudged Elastic Band (CI-NEB)| Computational Catalysis | Continuum Implicit Solvation Model | 2 Dimensional Materials**
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=4HqqbiwAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abhayrawat224620/)
