@@ -19,8 +19,8 @@ I am a physics graduate with a research focus on first-principles simulations fo
 
 ## Operating System
 <p align="center">
-  <img src="./icons/ubuntu.webp" width="100"/>
-  <img src="./icons/Windows-11-Logo.jpg" width="120"/>
+  <img src="./icons/ubuntu.webp" width="140"/>
+  <img src="./icons/Windows-11-Logo.jpg" width="180"/>
 </p>
 
 ## Visualisation
