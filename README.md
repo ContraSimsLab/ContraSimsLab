@@ -19,6 +19,6 @@ I am a physics graduate with a research focus on first-principles simulations fo
 
 ## Operating System
 <p align="center">
-  <img src="https://worldvectorlogo.com/logo/ubuntu-2" width="100"/>
-  <img src="https://worldvectorlogo.com/logo/microsoft-windows-22" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="100"/>
 </p>
