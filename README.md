@@ -25,18 +25,18 @@ I am a physics graduate with a research focus on first-principles simulations fo
   <img src="./icons/pngegg.png" width="200"/>
 </p>
 
-## Operating System
-<p align="center">
-  <img src="./icons/avbl7b4rs.webp" width="140"/>
-  <img src="./icons/windows.png" width="180"/>
-</p>
-
 ## Visualisation
 <p align="center">
   <img src="./icons/VESTA1.png" width="100"/>
   <img src="./icons/ovito.png" width="100"/>
   <img src="./icons/ase256.png" width="40"/>
   <img src="./icons/avogadro2-dark.png" width="100"/>
+</p>
+
+## Operating System
+<p align="center">
+  <img src="./icons/avbl7b4rs.webp" width="140"/>
+  <img src="./icons/windows.png" width="180"/>
 </p>
 
 ## Graphing Tools
