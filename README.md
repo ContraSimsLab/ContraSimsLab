@@ -31,6 +31,7 @@ I am a physics graduate with a research focus on first-principles simulations fo
   <img src="./icons/ovi.png" width="200"/>
   <img src="./icons/ase256.png" width="80"/>
   <img src="./icons/avogadro2-dark.png" width="200"/>
+  <img src="./icons/wxDragon.png" width="100"/>
 </p>
 
 ## Operating System
