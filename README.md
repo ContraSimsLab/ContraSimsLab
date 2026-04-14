@@ -13,7 +13,7 @@ I am a physics graduate with a research focus on first-principles simulations fo
 
 ## Density Functional Theory Packages
 <p align="center">
-  <img src="./icons/VASP.png" width="140"/>
+  <img src="./icons/" width="140"/>
   <img src="./icons/SIESTA.webp" width="140"/>
   <img src="./icons/quantum.png" width="180"/>
   <img src="./icons/gpaw.png" width="140"/>
