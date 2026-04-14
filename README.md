@@ -30,3 +30,9 @@ I am a physics graduate with a research focus on first-principles simulations fo
   <img src="./icons/ase256.png" width="40"/>
   <img src="./icons/avogadro2-dark.png" width="100"/>
 </p>
+
+## Graphing Tools
+<p align="center">
+  <img src="./icons/ubuntu.webp" width="140"/>
+  <img src="./icons/Windows-11-Logo.jpg" width="180"/>
+</p>
