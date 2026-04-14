@@ -17,3 +17,8 @@ I am a physics graduate with a research focus on first-principles simulations fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="100"/>
 </p>
 
+## Operating System
+<p align="center">
+  <img src="https://worldvectorlogo.com/logo/ubuntu-2" width="100"/>
+  <img src="https://worldvectorlogo.com/logo/microsoft-windows-22" width="100"/>
+</p>
