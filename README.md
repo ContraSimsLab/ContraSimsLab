@@ -21,8 +21,8 @@ I am a physics graduate with a research focus on first-principles simulations fo
 
 ## Top Languages
 <p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="100"/>
-  <img src="./icons/pngegg.png" width="100"/>
+  <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="150"/>
+  <img src="./icons/pngegg.png" width="150"/>
 </p>
 
 ## Operating System
