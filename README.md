@@ -41,14 +41,14 @@ I am a physics graduate with a research focus on first-principles simulations fo
 
 ## Graphing Tools
 <p align="center">
-  <img src="./icons/grace.jpg" width="140"/>
+  <img src="./icons/grace.png" width="140"/>
   <img src="./icons/Gnuplot.jpg" width="180"/>
 </p>
 
 ## Presentation & Documentation Tools
 <p align="center">
   <img src="./icons/overleaf-logo-primary.svg" width="120"/>
-  <img src="./icons/Canva.webp" width="110"/>
-  <img src="./icons/ppt.jpg" width="100"/>
+  <img src="./icons/Canva.png" width="110"/>
+  <img src="./icons/ppt.png" width="100"/>
 </p>
 
