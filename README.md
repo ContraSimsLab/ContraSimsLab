@@ -26,5 +26,5 @@ I am a physics graduate with a research focus on first-principles simulations fo
 ## Visualisation
 <p align="center">
   <img src="https://jp-minerals.org/vesta/img/vesta_logo.png" width="100"/>
-  <img src="./assets/ovito.png" width="100"/>
+  <img src="./icons/ovito.png" width="100"/>
 </p>
