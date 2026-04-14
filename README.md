@@ -25,7 +25,7 @@ I am a physics graduate with a research focus on first-principles simulations fo
 
 ## Visualisation
 <p align="center">
-  <img src="./icons/VESTA.png" width="100"/>
+  <img src="./icons/VESTA1.png" width="100"/>
   <img src="./icons/ovito.png" width="100"/>
   <img src="./icons/ase256.png" width="40"/>
   <img src="./icons/avogadro2-dark.png" width="100"/>
@@ -39,8 +39,8 @@ I am a physics graduate with a research focus on first-principles simulations fo
 
 ## Presentation & Documentation Tools
 <p align="center">
-  <img src="./icons/overleaf-logo-primary.svg" width="100"/>
-  <img src="./icons/Canva.webp" width="100"/>
+  <img src="./icons/overleaf-logo-primary.svg" width="120"/>
+  <img src="./icons/Canva.webp" width="110"/>
   <img src="./icons/ppt.jpg" width="100"/>
 </p>
 
