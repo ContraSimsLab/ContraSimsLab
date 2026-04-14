@@ -22,3 +22,9 @@ I am a physics graduate with a research focus on first-principles simulations fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="100"/>
 </p>
+
+## Visualisation
+<p align="center">
+  <img src="https://jp-minerals.org/vesta/img/vesta_logo.png" width="100"/>
+  <img src="https://www.ovito.org/images/ovito_logo.png" width="100"/>
+</p>
