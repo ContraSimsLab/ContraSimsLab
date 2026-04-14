@@ -13,7 +13,7 @@ I am a physics graduate with a research focus on first-principles simulations fo
 
 ## First-Principles (Ab Initio) Simulation Packages
 <p align="center">
-  <img src="./icons/VASP.png" width="140"/>
+  <img src="./icons/VASP.png" width="120"/>
   <img src="./icons/SIESTA.webp" width="150"/>
   <img src="./icons/quantum.png" width="240"/>
   <img src="./icons/gpaw.png" width="150"/>
