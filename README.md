@@ -36,3 +36,10 @@ I am a physics graduate with a research focus on first-principles simulations fo
   <img src="./icons/grace.jpg" width="140"/>
   <img src="./icons/Gnuplot.jpg" width="180"/>
 </p>
+
+## Presentation & Documentation Tools
+<p align="center">
+  <img src="./icons/grace.jpg" width="140"/>
+  <img src="./icons/Gnuplot.jpg" width="180"/>
+</p>
+
