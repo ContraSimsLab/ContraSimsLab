@@ -27,6 +27,6 @@ I am a physics graduate with a research focus on first-principles simulations fo
 <p align="center">
   <img src="./icons/VESTA.png" width="100"/>
   <img src="./icons/ovito.png" width="100"/>
-  <img src="./icons/ase256.png" width="70"/>
+  <img src="./icons/ase256.png" width="40"/>
   <img src="./icons/avogadro2-dark.png" width="100"/>
 </p>
