@@ -13,10 +13,10 @@ I am a physics graduate with a research focus on first-principles simulations fo
 
 ## Density Functional Theory Packages
 <p align="center">
-  <img src="./icons/img13.gif" width="100"/>
-  <img src="./icons/SIESTA.webp" width="100"/>
-  <img src="./icons/quantum.png" width="140"/>
-  <img src="./icons/gpaw.png" width="100"/>
+  <img src="./icons/img13.gif" width="140"/>
+  <img src="./icons/SIESTA.webp" width="140"/>
+  <img src="./icons/quantum.png" width="180"/>
+  <img src="./icons/gpaw.png" width="140"/>
 </p>
 
 ## Top Languages
