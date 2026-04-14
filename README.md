@@ -19,7 +19,7 @@ I am a physics graduate with a research focus on first-principles simulations fo
 
 ## Operating System
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="100"/>
+  <img src="./icons/ubuntu.webp" width="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="100"/>
 </p>
 
