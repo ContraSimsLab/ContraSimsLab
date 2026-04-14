@@ -11,7 +11,7 @@
 
 I am a physics graduate with a research focus on first-principles simulations for investigating materials and the exotic properties and phenomena they exhibit. I am currently seeking to pursue a PhD in condensed matter physics, with an emphasis on theoretical modeling and advanced ab initio methods.
 
-## Density Functional Theory Packages
+## First-Principles (Ab Initio) Simulation Packages
 <p align="center">
   <img src="./icons/VASP.png" width="140"/>
   <img src="./icons/SIESTA.webp" width="150"/>
