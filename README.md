@@ -15,11 +15,6 @@ I am a physics graduate with a research focus on first-principles simulations fo
 ## Top Languages
 <p>
   <img src="[python_icon_url](https://www.python.org/static/community_logos/python-logo-inkscape.svg)" width="50"/>
-  <img src="r_icon_url" width="50"/>
+  <img src="[r_icon_url](https://www.svgrepo.com/svg/353478/bash-icon)" width="50"/>
 </p>
 
-## Operating Systems
-<p>
-  <img src="ubuntu_icon_url" width="50"/>
-  <img src="apple_icon_url" width="50"/>
-</p>
