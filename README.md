@@ -22,7 +22,7 @@ I am a physics graduate with a research focus on first-principles simulations fo
 ## Scientific Programming & Scripting
 <p align="center">
   <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="200"/>
-  <img src="./icons/pngegg.png" width="200"/>
+  <img src="./icons/pngegg.png" width="180"/>
 </p>
 
 ## Visualisation
