@@ -12,7 +12,7 @@
 
 I am a physics graduate with a research focus on first-principles simulations for investigating materials and the exotic properties and phenomena they exhibit. I aim to pursue a PhD in condensed matter physics, with particular emphasis on AI/ML-accelerated theoretical modelling, advanced ab initio methodologies, and atomistic simulations.
 
-Currently working on Quantum Transport via TRANSiesta
+Currently working on Quantum Transport via TranSiesta.
 
 ## First-Principles (Ab Initio) Simulation Packages
 <p align="center">
