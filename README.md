@@ -24,7 +24,7 @@ Currently working on Quantum Transport via TranSiesta.
 
 ## Quantum Transport Module
 <p align="center">
-  <img src="./icons/ts.png" width="100"/>
+  <img src="./icons/ts.png" width="200"/>
 </p>
 
 ## Continuum (Implicit) Solvation Module 
