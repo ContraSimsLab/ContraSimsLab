@@ -22,7 +22,12 @@ Currently working on Quantum Transport via TranSiesta.
   <img src="./icons/gpaw.png" width="150"/>
 </p>
 
-## Continuum (Implicit) Solvation Model 
+## Quantum Transport Module
+<p align="center">
+  <img src="./icons/ts.png" width="100"/>
+</p>
+
+## Continuum (Implicit) Solvation Module 
 <p align="center">
   <img src="./icons/logo.jpeg" width="100"/>
 </p>
