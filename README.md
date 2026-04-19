@@ -1,6 +1,6 @@
 # Abhay Rawat
 
-**Theoretical Condensed Matter Physics | Ab Initio Simulations | DFT | Materials Modeling | Electronic Structure Calculations | Relativistic Spin Orbit Physics | Ion Migration | Climbing Image Nudged Elastic Band (CI-NEB)| Computational Catalysis | Continuum Implicit Solvation Model (VASPsol) | Quantum Transport**
+**Theoretical Condensed Matter Physics | Ab Initio Simulations | Density Functional Theory (DFT) | Materials Modeling | Electronic Structure Calculations | Relativistic Spin Orbit Physics | Ion Migration | Climbing Image Nudged Elastic Band (CI-NEB)| Computational Catalysis | Charge Analyis | Continuum Implicit Solvation Model (VASPsol) | Strain Engineering | Quantum Transport | 2D/3D materials**
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=4HqqbiwAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abhayrawat224620/)
