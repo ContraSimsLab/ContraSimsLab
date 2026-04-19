@@ -20,9 +20,9 @@ I am a physics graduate with a research focus on first-principles simulations fo
   <img src="./icons/gpaw.png" width="150"/>
 </p>
 
-## Continumm (Implicit) Solvation Model 
+## Continuum (Implicit) Solvation Model 
 <p align="center">
-  <img src="./icons/sol.png" width="100"/>
+  <img src="./icons/logo.jpg" width="100"/>
 </p>
 
 ## Scientific Programming & Scripting
