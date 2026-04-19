@@ -20,6 +20,11 @@ I am a physics graduate with a research focus on first-principles simulations fo
   <img src="./icons/gpaw.png" width="150"/>
 </p>
 
+## Continumm (Implicit) Solvation Model 
+<p align="center">
+  <img src="./icons/sol.png" width="100"/>
+</p>
+
 ## Scientific Programming & Scripting
 <p align="center">
   <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="200"/>
