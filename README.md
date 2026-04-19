@@ -24,12 +24,12 @@ Currently working on Quantum Transport via TranSiesta.
 
 ## Quantum Transport Module
 <p align="center">
-  <img src="./icons/ts.png" width="200"/>
+  <img src="./icons/ts.png" width="220"/>
 </p>
 
 ## Continuum (Implicit) Solvation Module 
 <p align="center">
-  <img src="./icons/logo.jpeg" width="100"/>
+  <img src="./icons/logo.jpeg" width="120"/>
 </p>
 
 ## Scientific Programming & Scripting
