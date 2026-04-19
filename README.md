@@ -22,7 +22,7 @@ I am a physics graduate with a research focus on first-principles simulations fo
 
 ## Continuum (Implicit) Solvation Model 
 <p align="center">
-  <img src="./icons/logo.jpg" width="100"/>
+  <img src="./icons/logo.jpeg" width="100"/>
 </p>
 
 ## Scientific Programming & Scripting
