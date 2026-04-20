@@ -47,6 +47,11 @@ Currently working on Quantum Transport via TranSiesta.
   <img src="./icons/wxDragon.png" width="100"/>
 </p>
 
+## Scientific Utility Software
+<p align="center">
+  <img src="./icons/vaspkit.jpg" width="100"/>
+</p>
+
 ## Operating System
 <p align="center">
   <img src="./icons/Ubuntu.png" width="100"/>
