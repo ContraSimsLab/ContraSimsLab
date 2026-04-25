@@ -38,7 +38,7 @@ Currently working on Quantum Transport via TranSiesta.
   <img src="./icons/pngegg.png" width="180"/>
 </p>
 
-## Visualisation
+## Visualisation Softwares
 <p align="center">
   <img src="./icons/VESTA.png" width="80"/>
   <img src="./icons/ovi.png" width="200"/>
